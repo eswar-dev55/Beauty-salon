@@ -1,0 +1,1 @@
+console.log("Salon Website Loaded");
